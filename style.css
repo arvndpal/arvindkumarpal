@@ -4,7 +4,7 @@
 }
 
 body {
-    font: 14px Helvetica, Sans-Serif;
+    font: 13px Helvetica, Sans-Serif;
     line-height: 18px;
     background: url(images/noise.jpg);
 }
@@ -14,7 +14,7 @@ body {
 }
 
 #page-wrap {
-    width: 800px;
+    width: 950px;
     margin: 20px auto 40px;
 }
 
